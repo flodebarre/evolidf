@@ -1,0 +1,125 @@
+Mode d'emploi pour la gestion de votre abonnement à la liste de diffusion evolidf.
+
+
+NOTE: ce mode d'emploi reprend quasi-verbatim les objectifs d'evolfrance,
+mais **attention !** 
+Les emails et codes d'inscription/désinscription sont différents.
+
+# NOM DE LA LISTE
+
+La liste s'appelle `evoldif` ; elle existe aussi pour des raisons logistiques sous le nom `evolidf.cirb`.
+
+# RAPPEL DES OBJECTIFS DE LA LISTE 
+
+Cette liste permet la diffusion d'informations à la communauté scientifique
+francilienne s'intéressant à l'évolution biologique.
+
+Ses règles sont similaires à celles de la liste evolfrance : 
+pertinence, parcimonie, efficacité, légereté.
+
+## PERTINENCE :
+
+On peut y diffuser toute information à caractère professionnel et d'intérêt
+général pour ce domaine scientifique et pour la communauté francilienne. 
+
+Exemples: manifestations scientifiques, information scientifique, offres
+d'emploi, offres de formation, recherche ou offres de collaborations.
+
+Il est inutile de rediriger des informations qui ont été diffusées par des
+moyens similaires mais à plus large échelle (par exemple EvolDir, evolfrance), 
+sauf intérêt particulier pour la communauté francilienne.
+
+## PARCIMONIE :
+
+Les offres de stage pré-doctoral ne peuvent être publiées que de manière
+collective (lien vers une liste de sujets pour une filière). De même pour les
+offres de thèses dont le financement n'est pas acquis, simplement ouvertes au
+concours doctoral.
+
+Toute autre offre associée à un vrai salaire et dont le financement est acquis
+est par contre bienvenue (y compris pour les thèses). 
+
+Les demandes d'emploi ou de stage sont proscrites.
+
+## EFFICACITE :
+
+Tout message doit comporter un sujet concis mais explicite quant à la nature de
+son contenu.
+
+## LEGERETE :
+
+Dans la mesure du possible, évitez d'envoyer des pièces jointes. 
+Préférez des liens vers des sites où les documents peuvent être téléchargés.
+
+#============================================================================
+
+# S'ABONNER à evolidf 
+
+Deux solutions : 
+
+- Aller sur la page 
+https://listes.college-de-france.fr/sympa/subscribe/evolidf.cirb
+et suivre les instructions.
+
+- Directement par email :
+On supposera ci-dessous que je m'appelle Lucas RIBOU
+J'envoie à partir de l'adresse email à laquelle je veux être abonné un message à l'adresse:
+sympa@listes.college-de-france.fr
+dont le sujet est
+subscribe evolidf.cirb Lucas RIBOU
+
+#============================================================================
+
+# DIFFUSER UN MESSAGE sur evolidf 
+
+Il vous suffit de l'envoyer, depuis votre adresse d'inscription, à l'adresse de la liste:
+
+evolidf@college-de-france.fr
+
+(en enlevant les < >) pour qu'il soit diffusé à tous les abonnés de la liste. 
+
+#============================================================================
+
+# SE DESABONNER d'evolidf 
+
+Deux solutions : 
+
+- Aller sur la page 
+https://listes.college-de-france.fr/sympa/sigrequest/evolidf.cirb
+et suivre les instructions. 
+
+- DIrectement par email :
+On supposera ci-dessous que je m'appelle Lucas RAMEL, 
+et que l'adresse email sous laquelle je suis abonné à evolidf est <Lucas.Ramel@domaine.pays>
+J'envoie à
+sympa@listes.college-de-france.fr
+un message avec l'objet :
+unsubscribe evolidf.cirb Lucas.Ramel@domaine.pays
+La mention de l'adresse email est optionnelle dans la ligne de commande si vous écrivez depuis cette même adresse.
+
+#============================================================================
+
+# GERER SON ABONNEMENT à evolidf 
+
+Deux méthodes :
+
+- Par la page web: https://listes.college-de-france.fr/sympa/info/evolidf.cirb 
+(la première fois, choisir "Première connexion ?" pour obtenir un mot de passe). 
+(Je me demande bien qui lira ce mode d'emploi jusqu'ici. Merci à vous !) 
+Sur cette page vous avez accès aux archives des 6 derniers mois. 
+
+- Par email, envoyer à (Pour obtenir un mode d'emploi du serveur de liste, 
+<sympa@listes.college-de-france.fr>
+un message contenant comme objet HELP.
+
+#============================================================================
+
+# CONTACTER LES GESTIONNAIRES d'evolidf 
+
+Uniquement après avoir essayé, et réessayé, les procédures automatiques ci-dessus,
+une seule adresse: evolidf.cirb-request@listes.college-de-france.fr
+
+NE PAS ECRIRE A L'ADRESSE DE LA LISTE POUR GERER VOTRE ABONNEMENT. 
+Utiliser UNIQUEMENT les procédures décrites ci-dessus.
+
+
