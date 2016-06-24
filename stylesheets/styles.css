@@ -169,7 +169,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  border:0px solid;
+  border:0 solid;
 }
 
 header ul {
@@ -277,7 +277,7 @@ footer {
 
   header ul {
     position:absolute;
-    right:50px;
+    /*right:50px;*/
     top:52px;
   }
 }
@@ -310,7 +310,7 @@ footer {
   }
 
   header li, header ul li + li + li {
-    width:33%;
+    /*width:33%;*/
   }
 }
 
